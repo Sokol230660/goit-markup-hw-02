@@ -1,6 +1,3 @@
-:root {
-}
-
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
@@ -79,20 +76,11 @@ li {
   background-color: #188ce8;
 }
 
-.hero-bg {
-}
-
 .title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
-}
-
-.features-list {
-}
-
-.features-item {
 }
 
 .features-subtitle {
@@ -107,18 +95,6 @@ li {
   line-height: 1.71;
 
   color: #757575;
-}
-
-.project-list {
-}
-
-.project-item {
-}
-
-.contacts-list {
-}
-
-.contacts-item {
 }
 
 .contacts-subtitle {
